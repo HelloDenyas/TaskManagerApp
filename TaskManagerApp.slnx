@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="TaskManagerApp.App/TaskManagerApp.App.csproj" />
+  <Project Path="TaskManagerApp.Tests/TaskManagerApp.Tests.csproj" />
+</Solution>
